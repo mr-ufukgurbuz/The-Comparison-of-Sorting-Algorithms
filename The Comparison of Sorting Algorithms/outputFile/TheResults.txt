@@ -1,0 +1,157 @@
+
+                        <<< 2'SER - 1000 SAYI - DUZ >>>
+
+Insertion Sort Time:    0.000018        Comparison: 999
+Merge Sort Time:        0.000209        Comparison: 5044
+Quick Sort Time:        0.016533        Comparison: 499500
+Tree Sort Time:         0.011753        Comparison: 499500
+
+
+
+                        <<< 2'SER - 1000 SAYI - TERS >>>
+
+Insertion Sort Time:    0.006716        Comparison: 499500
+Merge Sort Time:        0.000257        Comparison: 4932
+Quick Sort Time:        0.010587        Comparison: 499500
+Tree Sort Time:         0.014006        Comparison: 499500
+
+
+
+                        <<< 3'ER - 5000 SAYI - DUZ >>>
+
+Insertion Sort Time:    0.000116        Comparison: 4999
+Merge Sort Time:        0.001695        Comparison: 32004
+Quick Sort Time:        0.708875        Comparison: 12497500
+Tree Sort Time:         0.343439        Comparison: 12497500
+
+
+
+                        <<< 3'ER - 5000 SAYI - TERS >>>
+
+Insertion Sort Time:    0.240955        Comparison: 12497500
+Merge Sort Time:        0.001632        Comparison: 29804
+Quick Sort Time:        0.305621        Comparison: 12497500
+Tree Sort Time:         0.327750        Comparison: 12497500
+
+
+
+                        <<< 5'ER - 10000 SAYI - DUZ >>>
+
+Insertion Sort Time:    0.000185        Comparison: 9999
+Merge Sort Time:        0.003123        Comparison: 69008
+Quick Sort Time:        2.189645        Comparison: 49995000
+Tree Sort Time:         1.171249        Comparison: 49995000
+
+
+
+                        <<< 5'ER - 10000 SAYI - TERS >>>
+
+Insertion Sort Time:    0.851175        Comparison: 49995000
+Merge Sort Time:        0.002888        Comparison: 64608
+Quick Sort Time:        1.196042        Comparison: 49995000
+Tree Sort Time:         1.134546        Comparison: 49995000
+
+
+
+                        <<< 25'ER - 30000 SAYI - DUZ >>>
+
+Insertion Sort Time:    0.000445        Comparison: 29999
+Merge Sort Time:        0.007682        Comparison: 227728
+Quick Sort Time:       13.095755        Comparison: 449985000
+Tree Sort Time:         7.533976        Comparison: 449985000
+
+
+
+                        <<< 25'ER - 30000 SAYI - TERS >>>
+
+Insertion Sort Time:    5.943461        Comparison: 449985000
+Merge Sort Time:        0.012802        Comparison: 219504
+Quick Sort Time:        6.075187        Comparison: 449985000
+Tree Sort Time:         6.525074        Comparison: 449985000
+
+
+
+                        <<< 50'SER - 50000 SAYI - DUZ >>>
+
+Insertion Sort Time:    0.000580        Comparison: 49999
+Merge Sort Time:        0.008706        Comparison: 401952
+Quick Sort Time:       38.966372        Comparison: 1249975000
+Tree Sort Time:        19.356167        Comparison: 1249975000
+
+
+
+                        <<< 50'SER - 50000 SAYI - TERS >>>
+
+Insertion Sort Time:   19.095722        Comparison: 1249975000
+Merge Sort Time:        0.008763        Comparison: 382512
+Quick Sort Time:       26.907440        Comparison: 1249975000
+Tree Sort Time:        37.582085        Comparison: 1249975000
+
+
+
+                        <<< 100'ER - 100000 SAYI - DUZ >>>
+
+Insertion Sort Time:    0.003174        Comparison: 99999
+Merge Sort Time:        0.064541        Comparison: 853904
+Quick Sort Time:      237.341198        Comparison: 704982704
+Tree Sort Time:       137.438788        Comparison: 704982704
+
+
+
+                        <<< 100'ER - 100000 SAYI - TERS >>>
+
+Insertion Sort Time:   67.087373        Comparison: 704982704
+Merge Sort Time:        0.042132        Comparison: 815024
+Quick Sort Time:       78.858307        Comparison: 704982704
+Tree Sort Time:       102.257805        Comparison: 704982704
+
+
+
+                        <<< RANDOM 1000 SAYI >>>
+
+Insertion Sort Time:    0.001108        Comparison: 248519
+Merge Sort Time:        0.000194        Comparison: 8724
+Quick Sort Time:        0.000193        Comparison: 10749
+Tree Sort Time:         0.000288        Comparison: 11057
+
+
+
+                        <<< RANDOM 5000 SAYI >>>
+
+Insertion Sort Time:    0.043942        Comparison: 6213111
+Merge Sort Time:        0.001262        Comparison: 55201
+Quick Sort Time:        0.001323        Comparison: 67654
+Tree Sort Time:         0.001250        Comparison: 66266
+
+
+
+                        <<< RANDOM 10000 SAYI >>>
+
+Insertion Sort Time:    0.207443        Comparison: 25173648
+Merge Sort Time:        0.002812        Comparison: 120519
+Quick Sort Time:        0.003316        Comparison: 150286
+Tree Sort Time:         0.002483        Comparison: 153292
+
+
+
+                        <<< RANDOM 30000 SAYI >>>
+
+Insertion Sort Time:    4.920347        Comparison: 225147052
+Merge Sort Time:        0.010029        Comparison: 408683
+Quick Sort Time:        0.013199        Comparison: 516032
+Tree Sort Time:         0.009555        Comparison: 500626
+
+
+
+                        <<< RANDOM 100000 SAYI >>>
+
+Insertion Sort Time:   57.571031        Comparison: 2495647852
+Merge Sort Time:        0.042558        Comparison: 1536465
+Quick Sort Time:        0.058059        Comparison: 1990578
+Tree Sort Time:         0.098657        Comparison: 1769750
+
+
+
+--------------------------------
+Process exited after 881 seconds with return value 0
+Press any key to continue . . .
